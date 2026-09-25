@@ -10,7 +10,7 @@ const IMAGE_CACHE  = `mala-images-${CACHE_VERSION}`;
 const DATA_CACHE   = `mala-data-${CACHE_VERSION}`;
 
 // Your Cloudflare Tunnel URL for the live menu
-const MENU_URL = 'https://malakingthalang.github.io/menu/menu.min.json';
+const MENU_URL = 'https://malaking.baanraikrisana.com/menu/menu.min.json';
 
 // Static assets to pre-cache on install
 const STATIC_ASSETS = [
